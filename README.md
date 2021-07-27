@@ -1,6 +1,6 @@
-
-# Anylogic-Model-Pedestrian-Simulation-in-Lifts
+# Anylogic-Model-Pedestrian-Lift-Simulation
 This is a pedestrian simulation model. passengers taking two lifts
 
-![lift (1)](https://user-images.githubusercontent.com/60088886/127121276-ab93f6d0-f7e0-4bf1-b11e-b91523b40760.gif)
+![liftany](https://user-images.githubusercontent.com/60088886/127121992-237449aa-64d5-493a-8377-9a3ecf12d7a4.gif)
+
 
